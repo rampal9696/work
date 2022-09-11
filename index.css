@@ -1,0 +1,29 @@
+ h1{
+  text-align: center;
+ margin: 30px 0px;
+
+ }
+ .card{
+    position: absolute;
+    top: 50;
+    left: 0;
+    transform:translate(550px,50px);
+ }
+
+.user-card{
+  background-color: rgb(175, 117, 234);
+  width: auto;
+  height: auto;
+  font-size: 25px;
+  padding: 20px;
+  
+  margin-bottom: 50px;
+}
+.order-card{
+  background-color: aqua;
+  margin-bottom: 20px;
+  padding: 20px;
+   
+}
+
+ 
